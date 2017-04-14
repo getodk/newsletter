@@ -20,7 +20,7 @@ Next month
 * Ship update to Briefcase and Validate.
 
 Feedback needed
-* Tom (@hooverlunch) and Shobhit (@shobhitagarwal1612) are working on an exciting new feature to bulk configure phones via QR codes! Help shape it by commenting [here](https://github.com/opendatakit/collect/issues/781).
+* Tom ([@hooverlunch](https://github.com/hooverlunch)) and Shobhit ([@shobhitagarwal1612](https://github.com/shobhitagarwal1612)) are working on an exciting new feature to bulk configure phones via QR codes! Help shape it by commenting [here](https://github.com/opendatakit/collect/issues/781).
 
 
 Quick way to contribute
