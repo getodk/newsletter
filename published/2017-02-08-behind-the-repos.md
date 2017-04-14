@@ -19,7 +19,8 @@ Important dates
 
 Feedback needed
 * Collect: [capturing time spent in each question](https://github.com/opendatakit/collect/issues/257)
-* Collect: [adding testing to catch regressions](https://github.com/opendatakit/collect/issues/392)* XForms spec: [scaling down images before sending](https://github.com/opendatakit/xforms-spec/issues/79)
+* Collect: [adding testing to catch regressions](https://github.com/opendatakit/collect/issues/392)
+* XForms spec: [scaling down images before sending](https://github.com/opendatakit/xforms-spec/issues/79)
 
 Looking for a quick way to contribute? Help develop the roadmap by
 filing GitHub issues for bugs or features you care about (or +1
