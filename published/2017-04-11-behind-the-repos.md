@@ -10,7 +10,7 @@ Speaking of healthy communities, if you aren’t on the [users’ list](http://g
 3. Helping users is fun and rewarding. Our users mostly work in social good and really appreciate our efforts. Sometimes they just need a little bit of help to succeed and you can make a big difference by providing that support!
 
 This month
-* Shipping new release of Collect on April 26th. We’ll freeze code contributions on April 22nd. [Track the progress of the April Release](https://github.com/opendatakit/collect/milestone/2). 
+* Shipping new release of Collect on April 30th. We’ll freeze code contributions on April 26th. [Track the progress of the April Release](https://github.com/opendatakit/collect/milestone/2). 
 * Major upgrades to Build, including [a 100x improvement in form loading times](https://github.com/opendatakit/build/pull/110) from Clint ([@clint-tseng](https://github.com/clint-tseng))!
 * Working towards automated style checks in [Collect](https://github.com/opendatakit/collect/issues/602) and [Briefcase](https://github.com/opendatakit/briefcase/issues/94).
 * Finishing library upgrades and moves to gradle (even JavaRosa!) across all tools
