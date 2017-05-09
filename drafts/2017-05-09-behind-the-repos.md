@@ -9,8 +9,9 @@ Thank you to all the amazing students who wrote great GSoC proposals and made im
 This month
 - Refine UI/UX proposal for Collect and start migration to modern UI libraries.
 
-Releases on May 28th with a feature freeze on May 24th
-- Collect: [Track the progress of the May Release](https://github.com/opendatakit/collect/milestone/3). Additions will include [timing](https://github.com/opendatakit/collect/issues/257) and [bulk configuration with QR codes](https://github.com/opendatakit/collect/issues/781)
+Releases
+- May 28th with a feature freeze on May 24th
+- Collect: additions will include [timing](https://github.com/opendatakit/collect/issues/257) and [bulk configuration with QR codes](https://github.com/opendatakit/collect/issues/781)
 - Briefcase: additions will include [network proxy support](https://github.com/opendatakit/briefcase/issues/86), [exporting in a date range](https://github.com/opendatakit/briefcase/issues/117) and [speeding up the app's launch](https://github.com/opendatakit/briefcase/issues/82)
 - [JavaRosa](https://github.com/opendatakit/javarosa): the core form parsing library that powers many ODK tools
 
@@ -31,4 +32,4 @@ Quick way to contribute
 
 Thanks and go team ODK!
 
-P.S. Looking for a new webcomic to follow? Shivam suggests [Geek & Poke](http://geek-and-poke.com/)!!
+P.S. Looking for a new webcomic to follow? Shivam suggests [Geek & Poke](http://geek-and-poke.com/)!
