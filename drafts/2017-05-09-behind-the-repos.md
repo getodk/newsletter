@@ -7,13 +7,20 @@ Shobhit is from Kanpur, India and is currently a 4th year undergraduate student 
 Thank you to all the amazing students who wrote great GSoC proposals and made important contributions over the past few months. You have all become important parts of the ODK community.
 
 This month
-- New release of Collect on May 28th. We’ll freeze code contributions on May 24th. [Track the progress of the May Release](https://github.com/opendatakit/collect/milestone/3). Additions will include [timing](https://github.com/opendatakit/collect/issues/257) and [bulk configuration with QR codes](https://github.com/opendatakit/collect/issues/781)
-- New release of [JavaRosa](https://github.com/opendatakit/javarosa), the core form parsing library that powers many ODK tools
-- Refine UI/UX proposal for Collect and start migration to modern UI libraries
+- Refine UI/UX proposal for Collect and start migration to modern UI libraries.
+
+Releases on May 28th with a feature freeze on May 24th
+- Collect: [Track the progress of the May Release](https://github.com/opendatakit/collect/milestone/3). Additions will include [timing](https://github.com/opendatakit/collect/issues/257) and [bulk configuration with QR codes](https://github.com/opendatakit/collect/issues/781)
+- Briefcase: additions will include [network proxy support](https://github.com/opendatakit/briefcase/issues/86), [exporting in a date range](https://github.com/opendatakit/briefcase/issues/117) and [speeding up the app's launch](https://github.com/opendatakit/briefcase/issues/82)
+- [JavaRosa](https://github.com/opendatakit/javarosa): the core form parsing library that powers many ODK tools
 
 Next month
-- Review and refine the [XForms spec](https://github.com/opendatakit/xforms-spec) and its documentation
-- Continue cleaning up and improving JavaRosa
+- Start design work around compression of forms/submissions
+- Start design work around pushing form updates to devices
+- Improve getting started infrastructure (test forms, demo servers, etc)
+- Improve command line mode of ODK Briefcase
+- Ship update of ODK Validate
+- Java checkstyle improvements across tools
 
 Feedback needed
 - [Repeat group UI redesign](https://github.com/opendatakit/collect/issues/809)
@@ -22,5 +29,6 @@ Feedback needed
 Quick way to contribute
 - Join the [Collect beta program](https://play.google.com/apps/testing/org.odk.collect.android) and provide feedback on pre-release builds. Betas go out on the last Wednesday of the month for a Sunday release.
 
+Thanks and go team ODK!
 
-P.S. < Fun article or video. Shobhit, any ideas? >
+P.S. Looking for a new webcomic to follow? Shivam suggests [Geek & Poke](http://geek-and-poke.com/)!!
