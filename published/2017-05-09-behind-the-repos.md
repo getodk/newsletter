@@ -32,4 +32,4 @@ Quick way to contribute
 
 Thanks and go team ODK!
 
-P.S. Looking for a new webcomic to follow? Shivam suggests [Geek & Poke](http://geek-and-poke.com/)!
+P.S. Looking for a new webcomic to follow? Shivam (@shivam-tripathi) suggests [Geek & Poke](http://geek-and-poke.com/)!
