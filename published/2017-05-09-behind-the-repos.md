@@ -6,16 +6,16 @@ Shobhit is from Kanpur, India and is currently a 4th year undergraduate student 
 
 Thank you to all the amazing students who wrote great GSoC proposals and made important contributions over the past few months. You have all become important parts of the ODK community!
 
-This month
-* Refine UI/UX proposal for Collect and start migration to modern UI libraries.
-
-Releases
+This month's releases
 * May 28th with a feature freeze on May 24th
-* Collect: additions will include [timing](https://github.com/opendatakit/collect/issues/257) and [bulk configuration with QR codes](https://github.com/opendatakit/collect/issues/781)
+* Collect: additions will include [timing/audit](https://github.com/opendatakit/collect/issues/257) and [bulk configuration with QR codes](https://github.com/opendatakit/collect/issues/781)
 * Briefcase: additions will include [network proxy support](https://github.com/opendatakit/briefcase/issues/86), [exporting in a date range](https://github.com/opendatakit/briefcase/issues/117) and [speeding up the app's launch](https://github.com/opendatakit/briefcase/issues/82)
 * [JavaRosa](https://github.com/opendatakit/javarosa): the core form parsing library that powers many ODK tools
 
-Next month
+This month's work
+* Refine UI/UX proposal for Collect and start migration to modern UI libraries.
+
+Next month's work
 * Start design work around compression of forms/submissions
 * Start design work around pushing form updates to devices
 * Improve getting started infrastructure (test forms, demo servers, etc)
