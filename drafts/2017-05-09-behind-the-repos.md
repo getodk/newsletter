@@ -1,11 +1,19 @@
-< Shobhit's intro! >
+Hello,
 
+Please join me in congratulating Shobhit Agarwal who will be our first ever Google Summer of Code student! Shobhit will be spending the summer with us working on refreshing the Collect user experience. Many of you already know him from his significant contributions over the past few months.
+
+Shobhit is from Kanpur, India and is currently a 4th year undergraduate student in Ajay Kumar Garg Engineering College, Ghaziabad, India. He loves coding for fun and has been developing for Android for 3 years.
+
+Thank you to all the amazing students who wrote great GSoC proposals and made important contributions over the past few months. You have all become important parts of the ODK community.
 
 This month
-- New release of Collect on May 28th. We’ll freeze code contributions on May 24th. [Track the progress of the May Release](https://github.com/opendatakit/collect/milestone/3). Additions will include [timing](https://github.com/opendatakit/collect/issues/257) and [bulk configuration with QR codes](https://github.com/opendatakit/collect/issues/781)
-- New release of Briefcase on May 28th, with a freeze on May 24th. We'll be adding [network proxy support](https://github.com/opendatakit/briefcase/issues/86), [exporting in a date range](https://github.com/opendatakit/briefcase/issues/117) and [speeding up the app's launch](https://github.com/opendatakit/briefcase/issues/82)
-- Aiming for a new release of [JavaRosa](https://github.com/opendatakit/javarosa), the core form parsing library that powers many ODK tools
-- Refine UI/UX proposal for Collect and start migration to modern UI libraries
+- Refine UI/UX proposal for Collect and start migration to modern UI libraries.
+
+Releases
+- May 28th with a feature freeze on May 24th
+- Collect: additions will include [timing](https://github.com/opendatakit/collect/issues/257) and [bulk configuration with QR codes](https://github.com/opendatakit/collect/issues/781)
+- Briefcase: additions will include [network proxy support](https://github.com/opendatakit/briefcase/issues/86), [exporting in a date range](https://github.com/opendatakit/briefcase/issues/117) and [speeding up the app's launch](https://github.com/opendatakit/briefcase/issues/82)
+- [JavaRosa](https://github.com/opendatakit/javarosa): the core form parsing library that powers many ODK tools
 
 Next month
 - Start design work around compression of forms/submissions
@@ -22,5 +30,6 @@ Feedback needed
 Quick way to contribute
 - Join the [Collect beta program](https://play.google.com/apps/testing/org.odk.collect.android) and provide feedback on pre-release builds. Betas go out on the last Wednesday of the month for a Sunday release.
 
+Thanks and go team ODK!
 
-P.S. < Fun article or video. Shobhit, any ideas? >
+P.S. Looking for a new webcomic to follow? Shivam suggests [Geek & Poke](http://geek-and-poke.com/)!
